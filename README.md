@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Note
+The initialization code for the Map was taken from the [Mapbox documentation](https://docs.mapbox.com/help/tutorials/use-mapbox-gl-js-with-react) (specifically the `...new mapboxgl.Map(...` section), as well as styles stored in `mapbox-styles.css` - everything else is by me!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
