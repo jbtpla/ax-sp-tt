@@ -1,0 +1,20 @@
+.navigation-list-container {
+    display: grid;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    max-width: 600px;
+    text-align: center;
+}
+
+.navigation-list-heading {
+    display: inline;
+    margin: 30px;
+    text-align: center;
+}
+
+.navigation-list-item {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    border: darkred 2px solid;
+    cursor: pointer;
+}
